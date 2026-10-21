@@ -54,7 +54,7 @@ pd.read_sql("""SELECT * FROM sqlite_master""", conn)
 
 ### Step 1
 
-The company would like to let Boston employees go remote but need to know more information about who is working in that office. Return the first and last names and the job titles for all employees in Boston.
+The company would like to let Boston employees go remote but need to know more information about who is working in that office. Return the first and last names for all employees in Boston.
 
 ```python
 # STEP 1
